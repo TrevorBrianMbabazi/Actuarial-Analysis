@@ -1,4 +1,5 @@
 Actuarial Data Analysis Portfolio
+
 Welcome!
 Thank you for visiting my actuarial data analysis portfolio. My name is Trevor, and I am an Actuarial Associate at Sanlam. This portfolio showcases my capabilities in statistical analysis and financial modeling, primarily using Microsoft Excel. The projects included here are based on simulated data that resemble real-world scenarios, focusing on reinsurance, risk profile assessments, and the analysis of loss ratios for insurance companies. These projects are designed to demonstrate the analytical techniques and methodologies I use, without disclosing any confidential or proprietary information.
 
